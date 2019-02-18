@@ -1,0 +1,16 @@
+http://feeds.feedburner.com/blogspot/bRuz
+http://blog.outer-court.com/rss.xml
+http://feeds.feedburner.com/GoogleOperatingSystem
+http://feeds.feedburner.com/Mashable
+http://newsbusters.org/node/feed
+http://feeds.feedburner.com/paulstamatiou
+http://rss.slashdot.org/Slashdot/slashdot
+http://thinkprogress.org/feed/
+http://feeds.feedburner.com/andrewsullivan/rApM
+http://www.43folders.com/feed/
+http://www.456bereastreet.com/feed.xml
+http://www.autoblog.com/rss.xml
+http://www.blogmaverick.com/rss.xml
+http://feeds.feedburner.com/crooksandliars/YaCP
+http://www.engadget.com/rss.xml
+http://www.gothamist.com/index.rdf
